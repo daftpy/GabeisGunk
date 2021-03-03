@@ -10,6 +10,7 @@ export default function HTML(props) {
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&family=Passion+One&display=swap" rel="stylesheet" />
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" />
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
